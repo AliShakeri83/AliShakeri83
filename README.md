@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Ali Shakeri, a programmer interested in Python, JavaScript.<br>💻 Skills: Python, HTML5, CSS3, JavaScript, ReactJs, VueJs, Git<br>📂 Projects: <br>- Project 1 -> TodoList With JavaScript<br>- Project 2 -> Online-Shoe-shop With JavaScript<br>🎯 Aims: Learn and improve programming skills, participate in cool and cool projects<br>📫 Contact me:  Email: ali.sh87873@gmail.com  or  Tel: @Ali_Shakeri83<br><br><br><br>
+👋 Hello! I'm Ali Shakeri, a programmer interested in Python, JavaScript.<br>💻 Skills: Python, HTML5, CSS3, JavaScript, ReactJs, NextJs, VueJs, Git, Github<br>🎯 Aims: Learn and improve programming skills, participate in cool and cool projects<br>📫 Contact me:  Email: ali.sh87873@gmail.com  or  Tel: @Ali_Shakeri83<br><br><br><br>
 
 
 ## 🌐 Socials:
